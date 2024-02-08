@@ -3,6 +3,7 @@
 # dependencies
 admin/node_modules
 my-api-project/node_modules
+my-app/node_modules
 /.pnp
 .pnp.js
 
